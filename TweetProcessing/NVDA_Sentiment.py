@@ -57,7 +57,7 @@ AMD = re.compile(r"(?i)@AMD(?=\b)")
 tesla = re.compile(r"(?i)@Tesla(?=\b)")
 user = re.compile(r"(?i)@[a-z0-9_]+")
 path = "NVDA.xlsx"
-path2 = "NVDA1.xlsx"
+path2 = "NVDA_values.xlsx"
 wb = openpyxl.load_workbook(path)
 wb2 = openpyxl.load_workbook(path2)
 sheet = wb.active
