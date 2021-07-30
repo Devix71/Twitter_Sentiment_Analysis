@@ -1,0 +1,5 @@
+After collecting the Twitter posts in their text form, I had to transform them to usable data.
+In order to do this, I had to use the Flair python library,
+which uses machine-learning algorhitms together with sentiment dictionaries.
+In order to achieve the best possible results, I have used REGEX to "clean" the Twitter posts
+as much as possible, without taking away any of their potentially useful information.
