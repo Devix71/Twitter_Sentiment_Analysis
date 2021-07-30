@@ -1,5 +1,5 @@
-The Twitter post data was colected using Twint,
-an open source Twitter scraper (https://github.com/twintproject/twint),
+The Twitter post data was colected using [Twint]((https://github.com/twintproject/twint)),
+an open source Twitter scraper,
 by selecting the posts containing the stock tickers $AMD, $NVDA, $TSLA and $NASDAQ.
 After collecting the posts, they have been moved from a json format into an xlsx format for faster parsing.
 In the Dataset file there are all sets of data, in their own respective sheets,
