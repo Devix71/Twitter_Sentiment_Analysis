@@ -1,4 +1,8 @@
-The Twitter post data was colected using Twint, an open source Twitter scraper (https://github.com/twintproject/twint), by selecting the posts containing the stock tickers $AMD, $NVDA, $TSLA and $NASDAQ.
+The Twitter post data was colected using Twint,
+an open source Twitter scraper (https://github.com/twintproject/twint),
+by selecting the posts containing the stock tickers $AMD, $NVDA, $TSLA and $NASDAQ.
 After collecting the posts, they have been moved from a json format into an xlsx format for faster parsing.
-In the Dataset file there are all sets of data, in their own respective sheets which are used in the various analyses used in this project.
-The sheets are categorized by their analysis type, where R means simple linear regression, MR means multiple regression and LR means logistical regression
+In the Dataset file there are all sets of data, in their own respective sheets,
+which are used in the various analyses used in this project.
+The sheets are categorized by their analysis type, where R means simple linear regression,
+MR means multiple regression and LR means logistical regression
