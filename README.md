@@ -22,5 +22,9 @@ The analyses used are:
 
 
 Sources:
+
+
 [^1]: Sul H. K., Dennis, A. R., & Yuan L. (2017). Trading on twitter: Using social media sentiment to predict stock returns. Decision Sciences, 48(3), 454-488.
+
+
 [^2]: Duz Tan S., & Tas O. (2020). Social Media Sentiment in International Stock Returns and Trading Activity. Journal of Behavioral Finance, 1-14
